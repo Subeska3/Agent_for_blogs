@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.adk/
+*.mp4
+*.mov
+.DS_Store
+venv/
+.venv/
+
